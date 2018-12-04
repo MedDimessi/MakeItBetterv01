@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "90091040278",
+    "firebase_url": "https://makeitbetter-56db2.firebaseio.com",
+    "project_id": "makeitbetter-56db2",
+    "storage_bucket": "makeitbetter-56db2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90091040278:android:d68ae09326bf85a1",
+        "android_client_info": {
+          "package_name": "com.next.gdg.makeitbetterv01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90091040278-0t13rkoh5thej95ceo55qh05g5oa5qil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.next.gdg.makeitbetterv01",
+            "certificate_hash": "bca651954a9202721324e14c3ac1c148319ce55e"
+          }
+        },
+        {
+          "client_id": "90091040278-sadmu5ea1ebcija16frre4fv4alp7c5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKBO-kVLKnHzJ3xFJ6oVX-6Fd9o9qG3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90091040278-sadmu5ea1ebcija16frre4fv4alp7c5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
